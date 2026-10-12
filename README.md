@@ -12,3 +12,4 @@ The lens should suppress bias and reveal framing and should auto moderate.
 
 The lens should work for artificial intelligent large language models.
 
+https://substack.com/@reneonline
